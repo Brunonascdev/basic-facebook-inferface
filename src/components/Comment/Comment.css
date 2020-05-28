@@ -1,0 +1,23 @@
+.comment {
+  margin: 3%;
+  display: flex;
+}
+
+.comment-content {
+  display: flex;
+  width: 90%;
+  margin-left: 10px;
+  background-color: rgb(240, 240, 240);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.user-img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.user-name {
+  font-weight: bold;
+}
